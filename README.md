@@ -2,11 +2,8 @@
 
 ## Prerequisites
 
-- **Node.js** (v18 or higher)
-- **npm** (Node Package Manager)
 - **Pandoc** (for document conversion)
-- **TeX Live** (for LaTeX compilation)
-- **bash** (for running shell scripts)
+- **XeLaTeX** (for LaTeX compilation)
 
 ## Installing Dependencies
 
