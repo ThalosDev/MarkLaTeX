@@ -36,7 +36,7 @@
 To build the documentation, run:
 
 ```sh
-./build_docs.sh
+./build_docs.sh [-d] INPUT_FILE OUTPUT_DIR
 ```
 
 This script will:
